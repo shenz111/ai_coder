@@ -36,7 +36,7 @@
 
 ### 启动步骤
 #### 1.添加api
-# 在application.yml添加api
+- **在application.yml添加你的api**
 #### 2. 后端启动
 ```bash
 # 克隆项目
